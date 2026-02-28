@@ -1,11 +1,6 @@
 # Ataque-DTP-VLAN-Hopping
 
-# Reporte Técnico: Ataque de Negociación de Enlace Troncal (DTP Spoofing)
-
-**Estudiante:** Cristopher de los Santos  
-**ID:** 2024-1414  
-**Institución:** Instituto Tecnológico de Las Américas (ITLA)  
-**Materia:** Seguridad de Redes
+Ataque de Negociación de Enlace Troncal (DTP Spoofing)
 
 ---
 
@@ -16,13 +11,6 @@ El objetivo principal de esta práctica es demostrar la vulnerabilidad del proto
 
 Aquí tienes el código completo en formato Markdown, optimizado para que lo copies y pegues directamente en tu archivo README.md. He integrado la topología exacta de tu imagen y el direccionamiento basado en tu red 10.14.14.x.
 
-Markdown
-# Reporte Técnico: Ataque de Negociación de Enlace Troncal (DTP Spoofing)
-
-**Estudiante:** Cristopher de los Santos  
-**ID:** 2024-1414  
-**Institución:** Instituto Tecnológico de Las Américas (ITLA)  
-**Fecha:** 27 de febrero de 2026
 
 ---
 
